@@ -3,7 +3,7 @@
 
 This is a simple **dumper** for Super Animal Royale, which is designed to calculate offsets for [**software from unknowncheats.me**](https://www.unknowncheats.me/forum/other-games/465314-super-animal-royale-hack.html).
 
-The way it works is very simple: parsing the PE file, getting the `il2cpp` section, searching for certain bytes by patterns in the section date and finally calculating offsets
+The way it works is very simple: parsing the PE file, getting the `il2cpp` section, searching for certain bytes by patterns in the section data and finally calculating offsets
 
 # ⁉️ How to use
 Download or compile (see `Compilation guide`) the application, run via the command line, **specifying the path** to `GameAssembly.dll` from **Super Animal Royale**
