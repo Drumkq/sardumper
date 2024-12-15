@@ -14,7 +14,7 @@ Example:
 sardumper.exe GameAssembly.dll
 ```
 
-The result will be output like this in the console: ``NameOfOffset:offset``.
+The result will be output like this in the console: ``NameOfOffset:offset``
 
 Example:
 ```json
@@ -47,7 +47,7 @@ AutoHop:0
 - ❌ AutoHop
 
 # ⚒️ Compilation guide
-Before compilation, you need a customized environment to work with **Rust** and **C++ for Windows**
+Before compilation, you need an ready environment to work with **Rust** and **C++ for Windows**
 
 1. Download or clone the repository
 2. open a command line in the project directory
